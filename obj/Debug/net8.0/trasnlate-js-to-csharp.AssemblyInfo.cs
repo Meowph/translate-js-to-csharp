@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trasnlate-js-to-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29e2680e82f5731dcf3c31017430459aa99b32aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f040b20573d517670fabc34a4aabd9befad36104")]
 [assembly: System.Reflection.AssemblyProductAttribute("trasnlate-js-to-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trasnlate-js-to-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

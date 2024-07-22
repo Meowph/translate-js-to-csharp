@@ -12,3 +12,4 @@ c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\r
 c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.pdb
 c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.genruntimeconfig.cache
 c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\ref\trasnlate-js-to-csharp.dll
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.sourcelink.json
