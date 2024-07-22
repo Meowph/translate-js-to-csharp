@@ -1,0 +1,14 @@
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\bin\Debug\net8.0\trasnlate-js-to-csharp.exe
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\bin\Debug\net8.0\trasnlate-js-to-csharp.deps.json
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\bin\Debug\net8.0\trasnlate-js-to-csharp.runtimeconfig.json
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\bin\Debug\net8.0\trasnlate-js-to-csharp.dll
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\bin\Debug\net8.0\trasnlate-js-to-csharp.pdb
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.AssemblyInfoInputs.cache
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.AssemblyInfo.cs
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.csproj.CoreCompileInputs.cache
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.dll
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\refint\trasnlate-js-to-csharp.dll
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.pdb
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\trasnlate-js-to-csharp.genruntimeconfig.cache
+c:\Users\Burukku\workspace\csharp-proj\trasnlate-js-to-csharp\obj\Debug\net8.0\ref\trasnlate-js-to-csharp.dll
